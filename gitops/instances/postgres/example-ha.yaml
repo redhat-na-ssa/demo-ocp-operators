@@ -1,0 +1,15 @@
+kind: PostgresCluster
+apiVersion: postgres-operator.crunchydata.com/v1beta1
+metadata:
+  name: example-ha
+  namespace: sandbox
+spec:
+  instances:
+    - dataVolumeClaimSpec:
+        accessModes:
+          - ReadWriteOnce
+        resources:
+          requests:
+            storage: 1Gi
+      replicas: 3
+  postgresVersion: 16
