@@ -5,5 +5,5 @@ components:
   - branding
 
 resources:
-  - instances
+  - app-configs
   - operators
