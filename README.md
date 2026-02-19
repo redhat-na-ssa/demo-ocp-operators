@@ -19,3 +19,8 @@ Apply Demo
 ```sh
 oc apply -k gitops
 ```
+
+## Examples
+
+- [x] [Declarative Example](gitops/app-configs/namespace/sandbox.yaml)
+- [x] [Kustomize Example](gitops/branding/kustomization.yaml)
