@@ -1,5 +1,8 @@
 # Platform Automation
 
+Configuration of applications and infrastructure is done in a declarative way.
+The following tools are used to define resources deployed on the platform.
+
 ## Built-in Automation
 
 - `YAML`
