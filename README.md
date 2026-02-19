@@ -20,6 +20,12 @@ Apply Demo
 oc apply -k gitops
 ```
 
+## Built-in Automation
+
+- `YAML`
+- [Kustomize](https://kustomize.io)
+- [Helm Charts](https://helm.sh)
+
 ## Examples
 
 - [x] [Declarative Example](gitops/app-configs/namespace/sandbox.yaml)
