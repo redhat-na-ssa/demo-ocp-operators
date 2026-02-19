@@ -25,3 +25,4 @@ oc apply -k gitops
 - [x] [Declarative Example](gitops/app-configs/namespace/sandbox.yaml)
 - [x] [Kustomize Example](gitops/branding/kustomization.yaml)
 - [x] [Advanced Kustomize Example](gitops/cluster-configs/adhoc-admin)
+- [x] [OpenShift Helm Charts (default)](https://charts.openshift.io)
