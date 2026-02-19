@@ -1,4 +1,4 @@
-# Setup a customer helper job
+# Setup custom helper job(s)
 
 Create your custom scripts
 
